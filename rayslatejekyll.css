@@ -300,7 +300,7 @@ Full-Width Styles
     bottom:-40px;
     right:0;
     height:70px;
-    background:url(../images/icon_download.png) no-repeat 0 90%
+    background:url(../images/icon_download.png) no-repeat 0 80%
 }
 
 .crx_download_link {
@@ -417,35 +417,40 @@ Full-Width Styles
 }
 
 .git_download_link:hover {
-    background:url(../images/sprite_download.png) no-repeat top left
+    background:url(../images/sprite_download.png) no-repeat top right
 }
 
 .tar_download_link:hover {
-    background:url(../images/sprite_download.png) no-repeat top left
+    background:url(../images/sprite_download.png) no-repeat top right
 }
 
 .gz_download_link:hover {
-    background:url(../images/sprite_download.png) no-repeat top left
+    background:url(../images/sprite_download.png) no-repeat top right
 }
 
 .tar_gz_download_link:hover {
-    background:url(../images/sprite_download.png) no-repeat top left
+    background:url(../images/sprite_download.png) no-repeat top right
+
 }
 
 .cab_download_link:hover {
-    background:url(../images/sprite_download.png) no-repeat top left
+    background:url(../images/sprite_download.png) no-repeat top right
+
 }
 
 .deb_download_link:hover {
-    background:url(../images/sprite_download.png) no-repeat top left
+    background:url(../images/sprite_download.png) no-repeat top right
+
 }
 
 .other_download_link:hover {
     background:url(../images/sprite_download.png) no-repeat top right
+
 }
 
 .crx_download_link:hover {
     background:url(../images/sprite_download.png) no-repeat top right
+
 }
 
 .xul_download_link:hover {
